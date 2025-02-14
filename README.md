@@ -40,13 +40,7 @@ Before stepping into tech, I worked as a **bartender, coach, and educational ass
 - **Bartending and mixology**—I can teach you how to make the best Old Fashioned you’ve ever had.  
 - **Basketball coaching**—or just the best way to improve your shot.  
 - **Dungeons & Dragons**—worldbuilding, storytelling, and making sure your party doesn’t accidentally start a war.  
-
----
-
-## How to Reach Me  
-- **Email:** taylor.evans@student.sl.on.ca  
-- **LinkedIn:** linkedin.com/in/taylor-evans-4525a3329/  
-
+ 
 ---
 
 ## Fun Facts  
@@ -54,3 +48,8 @@ Before stepping into tech, I worked as a **bartender, coach, and educational ass
 - I love **Dungeons & Dragons** and storytelling. If I’m not coding or playing ball, I’m probably **building a world for my next campaign**.  
 - I play **guitar and bass**, and if life had gone a different way, I’d probably be **on tour right now, making weird, danceable music**.  
 - I dream of **a quiet life with no alarms and no surprises.**  
+
+---
+
+## How to Reach Me  
+- **Email:** taylor.evans@student.sl.on.ca  
