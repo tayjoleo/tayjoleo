@@ -1,4 +1,4 @@
-# Oh hello! I'm Taylor.
+# Oh Hello! I'm Taylor.
 
 **Developer | UX-Focused Thinker | Aspiring Team Leader**  
 **C++ | Lua (Pico-8) | Web Dev | Databases | UX Design**  
